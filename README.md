@@ -103,7 +103,7 @@
 
 ### 多目标混合场景示例
 
-<img width="430" height="242" alt="multi_object_scene_1" src="https://github.com/user-attachments/assets/5dc20847-9633-4714-b238-e3cbffa2bb12" />
+<img width="430" height="242" alt="traj_2car_cam0" src="https://github.com/user-attachments/assets/3ba80eb7-1ddd-46b5-9f71-4e427fe6a2e7" />
 <img width="430" height="242" alt="multi_object_scene_2" src="https://github.com/user-attachments/assets/391b6e6b-e108-41c5-afc5-cf608fb2f2af" />
 
 ### 特殊场景实例以及合成点云细节
