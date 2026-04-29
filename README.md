@@ -106,6 +106,13 @@
 <img width="430" height="242" alt="multi_object_scene_1" src="https://github.com/user-attachments/assets/5dc20847-9633-4714-b238-e3cbffa2bb12" />
 <img width="430" height="242" alt="multi_object_scene_2" src="https://github.com/user-attachments/assets/391b6e6b-e108-41c5-afc5-cf608fb2f2af" />
 
+### 特殊场景实例以及合成点云细节
+
+<img width="430" height="242" alt="飞书20260429-172222" src="https://github.com/user-attachments/assets/1c5107ac-3d30-4ed0-8145-02fa2d50592f" />
+<img width="1048" height="738" alt="image" src="https://github.com/user-attachments/assets/69aaa8b7-b2ad-48f4-9ba7-c175cb300a6b" />
+<img width="951" height="742" alt="image" src="https://github.com/user-attachments/assets/426c529b-b04a-4d99-8f03-3103ec68bde6" />
+
+
 ## 后续探索方向
 
 后续计划继续探索以下方向：
