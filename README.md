@@ -110,7 +110,7 @@
 ### 特殊场景实例以及合成点云细节
 
 <img width="430" height="242" alt="飞书20260429-172222" src="https://github.com/user-attachments/assets/1c5107ac-3d30-4ed0-8145-02fa2d50592f" />
-![Uploading zhanshi_background_compare.gif…]()
+<img width="1000" height="500" alt="zhanshi_background_compare" src="https://github.com/user-attachments/assets/d06b2f5d-1fba-4a3b-8894-565ac0688ab2" />
 <img width="2360" height="1441" alt="image" src="https://github.com/user-attachments/assets/9e68642d-b2da-4337-ba28-d0df220b6fa3" />
 
 
