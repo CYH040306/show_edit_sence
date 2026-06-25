@@ -76,7 +76,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" alt="0000" width="600" /> | <img src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" alt="2222" width="600" /> | <img src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" alt="1111" width="600" /> | <img width="600" height="338" alt="3333" src="https://github.com/user-attachments/assets/32d0400b-adb8-4f7a-834f-142f9ce3945c" /> | <img width="600" height="338" alt="4444" src="https://github.com/user-attachments/assets/6ca637de-5b76-4108-9467-7719fda8c5db" />
 
-
+| BEV点云比较 | 实际采集点云 | 合成点云 |
+| :---: | :---: | :---: |
+| <img width="1250" height="625" alt="直行停车_background_compare" src="https://github.com/user-attachments/assets/00bb8e84-4670-4da5-9afd-85db92a01583" /> | <img width="1100" height="623" alt="2" src="https://github.com/user-attachments/assets/4fed0cea-cb72-4fb6-b172-32da8cee4366" /> | <img width="1100" height="623" alt="1" src="https://github.com/user-attachments/assets/14e1bf6a-2078-4ec7-a2c8-69ac2b08bcb6" /> |
 
 
 
