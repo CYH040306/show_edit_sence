@@ -82,7 +82,7 @@
 
 <img width="2455" height="1335" alt="trajectory_editing_interface" src="https://github.com/user-attachments/assets/b0ac605f-7cd6-47d7-a1e8-8d98ec7b41ef" />
 
-#### 1. 白天场景
+### 1. 白天场景
 | 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 | 移除场景物体 + 新增目标 |  自车路线变化 + 移除场景物体 + 新增目标 |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" alt="0000" width="600" /> | <img src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" alt="2222" width="600" /> | <img src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" alt="1111" width="600" /> | <img width="600" height="338" alt="3333" src="https://github.com/user-attachments/assets/32d0400b-adb8-4f7a-834f-142f9ce3945c" /> | <img width="600" height="338" alt="4444" src="https://github.com/user-attachments/assets/6ca637de-5b76-4108-9467-7719fda8c5db" />
@@ -92,15 +92,13 @@
 | <img width="1250" height="625" alt="直行停车_background_compare" src="https://github.com/user-attachments/assets/00bb8e84-4670-4da5-9afd-85db92a01583" /> | <img width="1100" height="623" alt="2" src="https://github.com/user-attachments/assets/4fed0cea-cb72-4fb6-b172-32da8cee4366" /> | <img width="1100" height="623" alt="1" src="https://github.com/user-attachments/assets/14e1bf6a-2078-4ec7-a2c8-69ac2b08bcb6" /> |
 
 
-
-
-#### 2. 夜晚场景
+### 2. 夜晚场景
 | 原始数据 | 自车路线变化 + 动态目标移除 | 自车路线变化 + 新增目标 |
 | :---: | :---: | :---: |
 | ![原始视频](https://github.com/user-attachments/assets/6fa337da-f546-4aa0-b288-6db1fd43235f) | ![动态目标移除](https://github.com/user-attachments/assets/cb3e2373-3193-4c1f-bf3d-d3c77855d012) | ![新增目标](https://github.com/user-attachments/assets/d225bd38-7de9-4bab-b236-00dade2e48cb) |
 
 
-#### 3. 极端场景合成（以夜晚为例）
+### 3. 极端场景合成（以夜晚为例）
 | 合成视频 | BEV点云比较 | 具体比较 |
 | :---: | :---: | :---: |
 | <img width="430" height="242" alt="飞书20260429-172222" src="https://github.com/user-attachments/assets/1c5107ac-3d30-4ed0-8145-02fa2d50592f" /> | <img width="1000" height="500" alt="zhanshi_background_compare" src="https://github.com/user-attachments/assets/d06b2f5d-1fba-4a3b-8894-565ac0688ab2" /> | <img width="2360" height="1441" alt="image" src="https://github.com/user-attachments/assets/9e68642d-b2da-4337-ba28-d0df220b6fa3" /> |
