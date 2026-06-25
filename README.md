@@ -72,9 +72,11 @@
 
 ### 场景编辑示例
 #### 白天场景
-| 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" alt="0000" width="600" /> | <img src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" alt="2222" width="600" /> | <img src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" alt="1111" width="600" /> |
+| 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 | 移除场景物体 + 新增目标 |  自车路线变化 + 移除场景物体 + 新增目标 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" alt="0000" width="600" /> | <img src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" alt="2222" width="600" /> | <img src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" alt="1111" width="600" /> | <img width="600" height="338" alt="3333" src="https://github.com/user-attachments/assets/32d0400b-adb8-4f7a-834f-142f9ce3945c" /> | <img width="600" height="338" alt="4444" src="https://github.com/user-attachments/assets/6ca637de-5b76-4108-9467-7719fda8c5db" />
+
+
 
 
 
