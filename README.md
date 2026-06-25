@@ -82,6 +82,12 @@
 
 <img width="2455" height="1335" alt="trajectory_editing_interface" src="https://github.com/user-attachments/assets/b0ac605f-7cd6-47d7-a1e8-8d98ec7b41ef" />
 
+### 0. 不同数据构建大规模3DGS场景
+基于[Multi-Session SLAM](https://github.com/CYH040306/show_lidar-slam)结果，实现由多组数据共同构建同一场景下的3DGS建模，结果如下：
+<img width="2431" height="1177" alt="image" src="https://github.com/user-attachments/assets/df99bfcb-a562-4321-89a9-ca5cd93f5aa5" />
+<img width="2422" height="1181" alt="image" src="https://github.com/user-attachments/assets/64092beb-cb6a-49e6-aa29-4ed7fff57191" />
+
+
 ### 1. 白天场景
 | 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 | 移除场景物体 + 新增目标 |  自车路线变化 + 移除场景物体 + 新增目标 |
 | :---: | :---: | :---: | :---: | :---: |
