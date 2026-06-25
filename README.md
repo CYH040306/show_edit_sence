@@ -1,4 +1,4 @@
-<img width="600" height="338" alt="1111" src="https://github.com/user-attachments/assets/06f19e5b-ba5d-4875-94e1-7c0d69f35cb6" /><img width="600" height="400" alt="0000" src="https://github.com/user-attachments/assets/ed33b872-a226-443d-b35f-5efe1fc34c13" /># Edit_Scene 场景编辑与生成式仿真探索
+# Edit_Scene 场景编辑与生成式仿真探索
 
 > 本仓库仅用于个人技术能力展示与公开方向探索，主要展示自动驾驶场景编辑、新视角生成、三维场景表达与生成式仿真相关实验结果。  
 > 仓库不包含公司内部代码、内部数据、模型权重、业务文档或可复现实验细节。展示内容仅用于技术交流。
