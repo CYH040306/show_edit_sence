@@ -1,4 +1,4 @@
-# Edit_Scene 场景编辑与生成式仿真探索
+<img width="600" height="338" alt="1111" src="https://github.com/user-attachments/assets/06f19e5b-ba5d-4875-94e1-7c0d69f35cb6" /><img width="600" height="400" alt="0000" src="https://github.com/user-attachments/assets/ed33b872-a226-443d-b35f-5efe1fc34c13" /># Edit_Scene 场景编辑与生成式仿真探索
 
 > 本仓库仅用于个人技术能力展示与公开方向探索，主要展示自动驾驶场景编辑、新视角生成、三维场景表达与生成式仿真相关实验结果。  
 > 仓库不包含公司内部代码、内部数据、模型权重、业务文档或可复现实验细节。展示内容仅用于技术交流。
@@ -71,7 +71,20 @@
 ## 结果展示
 
 ### 场景编辑示例
+#### 白天场景
+| 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 |
+| :---: | :---: | :---: |
+| <img width="600" height="400" alt="0000" src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" />
+ | <img width="600" height="338" alt="2222" src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" /> | <img width="600" height="338" alt="1111" src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" /> |
 
+
+
+
+
+
+
+
+#### 夜晚场景
 | 原始数据 | 自车路线变化 + 动态目标移除 | 自车路线变化 + 新增目标 |
 | :---: | :---: | :---: |
 | ![原始视频](https://github.com/user-attachments/assets/6fa337da-f546-4aa0-b288-6db1fd43235f) | ![动态目标移除](https://github.com/user-attachments/assets/cb3e2373-3193-4c1f-bf3d-d3c77855d012) | ![新增目标](https://github.com/user-attachments/assets/d225bd38-7de9-4bab-b236-00dade2e48cb) |
