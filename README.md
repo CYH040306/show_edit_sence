@@ -74,6 +74,14 @@
 
 **展示结果中，为了确保上传github稳定，采用帧率为5的gif生成，实际视频为10fps**
 
+以下展示目标对象与驾驶场景融合后的多视角效果，用于验证插入目标在不同视角下的空间一致性和外观一致性。
+
+<img width="430" height="312" alt="object_modeling_example" src="https://github.com/user-attachments/assets/75cd8f47-8ca1-409e-9844-3f9b65c995a0" />
+
+### 交互式轨迹编辑界面
+
+<img width="2455" height="1335" alt="trajectory_editing_interface" src="https://github.com/user-attachments/assets/b0ac605f-7cd6-47d7-a1e8-8d98ec7b41ef" />
+
 #### 白天场景
 | 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 | 移除场景物体 + 新增目标 |  自车路线变化 + 移除场景物体 + 新增目标 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -97,15 +105,11 @@
 | :---: | :---: | :---: |
 | ![原始视频](https://github.com/user-attachments/assets/6fa337da-f546-4aa0-b288-6db1fd43235f) | ![动态目标移除](https://github.com/user-attachments/assets/cb3e2373-3193-4c1f-bf3d-d3c77855d012) | ![新增目标](https://github.com/user-attachments/assets/d225bd38-7de9-4bab-b236-00dade2e48cb) |
 
-### 交互式轨迹编辑界面
 
-<img width="2455" height="1335" alt="trajectory_editing_interface" src="https://github.com/user-attachments/assets/b0ac605f-7cd6-47d7-a1e8-8d98ec7b41ef" />
 
 ### 目标建模与场景融合示例
 
-以下展示目标对象与驾驶场景融合后的多视角效果，用于验证插入目标在不同视角下的空间一致性和外观一致性。
 
-<img width="430" height="312" alt="object_modeling_example" src="https://github.com/user-attachments/assets/75cd8f47-8ca1-409e-9844-3f9b65c995a0" />
 
 融合结果：
 
