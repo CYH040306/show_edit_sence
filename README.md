@@ -72,10 +72,12 @@
 
 ### 场景编辑示例
 #### 白天场景
+```markdown
 | 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 |
 | :---: | :---: | :---: |
-| <img width="600" height="400" alt="0000" src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" />
- | <img width="600" height="338" alt="2222" src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" /> | <img width="600" height="338" alt="1111" src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" /> |
+| <img src="https://github.com/user-attachments/assets/c58fb4cf-e3fc-46e7-b208-59613d65d619" alt="0000" width="600" /> | <img src="https://github.com/user-attachments/assets/dfc5123f-49aa-4d56-99d4-d131f6e3ed36" alt="2222" width="600" /> | <img src="https://github.com/user-attachments/assets/c6672e19-b873-489e-865b-338e9312b412" alt="1111" width="600" /> |
+```
+
 
 
 
