@@ -104,47 +104,10 @@
 | <img width="600" height="400" alt="camera_0" src="https://github.com/user-attachments/assets/ba469a2a-65e6-4a1f-b7a6-0ed3742cbb6a" /> | <img width="800" height="450" alt="23-0" src="https://github.com/user-attachments/assets/0660fbba-b533-4f6e-be1e-3d63f1b171ff" /> | <img width="800" height="450" alt="23-0_novel" src="https://github.com/user-attachments/assets/59da0201-14d8-49a5-886c-c9f04e520592" /> | <img width="800" height="450" alt="23-0_delete" src="https://github.com/user-attachments/assets/ca42352d-23b1-4b82-b777-1914dfe9e815" /> | <img width="800" height="450" alt="23-0_novel_delete" src="https://github.com/user-attachments/assets/d46d535e-98e8-43f1-a951-6344d657631a" /> |
 
 
-
-
 ### 3. 极端场景合成（以夜晚为例）
 | 合成视频 | BEV点云比较 | 具体比较 |
 | :---: | :---: | :---: |
 | <img width="430" height="242" alt="飞书20260429-172222" src="https://github.com/user-attachments/assets/1c5107ac-3d30-4ed0-8145-02fa2d50592f" /> | <img width="1000" height="500" alt="zhanshi_background_compare" src="https://github.com/user-attachments/assets/d06b2f5d-1fba-4a3b-8894-565ac0688ab2" /> | <img width="2360" height="1441" alt="image" src="https://github.com/user-attachments/assets/9e68642d-b2da-4337-ba28-d0df220b6fa3" /> |
-
-
-
-### 目标建模与场景融合示例
-融合结果：
-
-<img width="450" height="253" alt="camera_0" src="https://github.com/user-attachments/assets/b36d3f69-4c60-481b-bdb5-b48015cab35c" />
-<img width="450" height="253" alt="camera_5" src="https://github.com/user-attachments/assets/26ea8ada-c0b4-4444-bab5-08107cf9d7da" />
-
-### 自车视角变化示例
-
-<img width="450" height="253" alt="ego_view_change" src="https://github.com/user-attachments/assets/0a876389-961d-4e00-b4f4-999bec401c20" />
-
-### 目标运动趋势编辑示例
-
-<img width="450" height="253" alt="object_motion_editing_1" src="https://github.com/user-attachments/assets/030fa7c7-7aed-4b2b-85c0-b122e45c6653" />
-<img width="450" height="253" alt="object_motion_editing_2" src="https://github.com/user-attachments/assets/61416ee2-eb73-444f-9863-f7f71f8d591f" />
-
-### 复杂目标运动示例
-
-<img width="430" height="242" alt="complex_motion_1" src="https://github.com/user-attachments/assets/066d365e-cf4c-4f43-af07-88698a352ffc" />
-<img width="430" height="242" alt="complex_motion_2" src="https://github.com/user-attachments/assets/0696b030-f7e0-489b-894e-e42051e19b29" />
-
-### 多目标混合场景示例
-
-<img width="430" height="242" alt="traj_2car_cam0" src="https://github.com/user-attachments/assets/3ba80eb7-1ddd-46b5-9f71-4e427fe6a2e7" />
-<img width="430" height="242" alt="novel_2car_cam0" src="https://github.com/user-attachments/assets/7ca4a797-f53a-49fc-9d81-87fe4782196c" />
-
-
-### 特殊场景实例以及合成点云细节
-
-
-
-
-
 
 
 ## 后续探索方向
