@@ -99,9 +99,11 @@
 
 
 ### 2. 夜晚场景
-| 原始数据 | 自车路线变化 + 动态目标移除 | 自车路线变化 + 新增目标 |
-| :---: | :---: | :---: |
-| ![原始视频](https://github.com/user-attachments/assets/6fa337da-f546-4aa0-b288-6db1fd43235f) | ![动态目标移除](https://github.com/user-attachments/assets/cb3e2373-3193-4c1f-bf3d-d3c77855d012) | ![新增目标](https://github.com/user-attachments/assets/d225bd38-7de9-4bab-b236-00dade2e48cb) |
+| 原始数据 | 新增目标车辆 | 自车路线变化 + 新增目标 | 移除场景物体 + 新增目标 |  自车路线变化 + 移除场景物体 + 新增目标 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img width="600" height="400" alt="camera_0" src="https://github.com/user-attachments/assets/ba469a2a-65e6-4a1f-b7a6-0ed3742cbb6a" /> | <img width="800" height="450" alt="23-0" src="https://github.com/user-attachments/assets/0660fbba-b533-4f6e-be1e-3d63f1b171ff" /> | <img width="800" height="450" alt="23-0_novel" src="https://github.com/user-attachments/assets/59da0201-14d8-49a5-886c-c9f04e520592" /> | <img width="800" height="450" alt="23-0_delete" src="https://github.com/user-attachments/assets/ca42352d-23b1-4b82-b777-1914dfe9e815" /> | <img width="800" height="450" alt="23-0_novel_delete" src="https://github.com/user-attachments/assets/d46d535e-98e8-43f1-a951-6344d657631a" /> |
+
+
 
 
 ### 3. 极端场景合成（以夜晚为例）
