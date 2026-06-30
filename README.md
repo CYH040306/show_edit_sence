@@ -84,8 +84,7 @@
 
 ### 0. 不同数据构建大规模3DGS场景
 基于[Multi-Session SLAM](https://github.com/CYH040306/show_lidar-slam)结果，实现由多组数据共同构建同一场景下的3DGS建模，结果如下：
-<img width="2431" height="1177" alt="image" src="https://github.com/user-attachments/assets/df99bfcb-a562-4321-89a9-ca5cd93f5aa5" />
-<img width="2422" height="1181" alt="image" src="https://github.com/user-attachments/assets/64092beb-cb6a-49e6-aa29-4ed7fff57191" />
+<img width="2417" height="1185" alt="image" src="https://github.com/user-attachments/assets/db230d3b-695a-44db-90d5-6ddfa72af280" />
 
 
 ### 1. 白天场景
