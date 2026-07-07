@@ -109,6 +109,15 @@
 | <img width="430" height="242" alt="飞书20260429-172222" src="https://github.com/user-attachments/assets/1c5107ac-3d30-4ed0-8145-02fa2d50592f" /> | <img width="1000" height="500" alt="zhanshi_background_compare" src="https://github.com/user-attachments/assets/d06b2f5d-1fba-4a3b-8894-565ac0688ab2" /> | <img width="2360" height="1441" alt="image" src="https://github.com/user-attachments/assets/9e68642d-b2da-4337-ba28-d0df220b6fa3" /> |
 
 
+### 3. 行人、电动车场景重建
+| 正向视角 | 侧向视角1 | 侧向视角2 |
+| :---: | :---: | :---: |
+| <img width="600" height="338" alt="cam_0" src="https://github.com/user-attachments/assets/ecdc2d2f-381c-4c56-9d2f-540af62682e6" /> | <img width="600" height="338" alt="cam_4" src="https://github.com/user-attachments/assets/9ac46082-b33b-47e1-bcb5-73190d4d881c" /> | <img width="600" height="338" alt="cam_5" src="https://github.com/user-attachments/assets/253007b8-e8e3-49ce-a3e9-41cec720d636" /> |
+
+| 正向视角 | 侧向视角1 | 侧向视角2 |
+| :---: | :---: | :---: |
+| <img width="600" height="338" alt="0" src="https://github.com/user-attachments/assets/5ae096f9-0f5b-4d7d-acba-eff091407955" /> | <img width="600" height="338" alt="3" src="https://github.com/user-attachments/assets/9e77f8a2-61dc-4563-9c49-9fa844ea9d46" /> | <img width="600" height="338" alt="5" src="https://github.com/user-attachments/assets/9af40cc9-4bb5-457a-9961-00ed6b18e668" /> |
+
 ## 后续探索方向
 
 后续计划继续探索以下方向：
