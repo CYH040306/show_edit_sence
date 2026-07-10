@@ -118,6 +118,21 @@
 | :---: | :---: | :---: |
 | <img width="600" height="338" alt="0" src="https://github.com/user-attachments/assets/5ae096f9-0f5b-4d7d-acba-eff091407955" /> | <img width="600" height="338" alt="3" src="https://github.com/user-attachments/assets/9e77f8a2-61dc-4563-9c49-9fa844ea9d46" /> | <img width="600" height="338" alt="5" src="https://github.com/user-attachments/assets/9af40cc9-4bb5-457a-9961-00ed6b18e668" /> |
 
+
+### 4. 6V一致性天气编辑
+#### 1. 重建6V视角视频
+<img width="700" height="264" alt="0100_6v" src="https://github.com/user-attachments/assets/c130cad0-1a47-4ddc-aaad-7acc511a8b71" />
+
+#### 2. 重建视频改雪天
+<img width="700" height="264" alt="0100_6v_snowy gen" src="https://github.com/user-attachments/assets/fd9f5273-05d2-4e39-9fd6-b74f0635254e" />
+
+#### 3. 重建视频改雨天
+<img width="700" height="264" alt="0100_6v_rainy gen" src="https://github.com/user-attachments/assets/77f199fd-0736-4cfc-8384-67cb9f358d64" />
+
+#### 4. 重建视频改夜晚
+<img width="700" height="264" alt="0100_6v_night gen" src="https://github.com/user-attachments/assets/adbea2fd-0ee3-4dd0-afe5-1e04bd3b72a7" />
+
+
 ## 后续探索方向
 
 后续计划继续探索以下方向：
