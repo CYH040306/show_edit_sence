@@ -139,6 +139,11 @@
 <img width="700" height="264" alt="0100_6v_night gen" src="https://github.com/user-attachments/assets/adbea2fd-0ee3-4dd0-afe5-1e04bd3b72a7" />
 
 
+### 6. 不同场景物体复用
+基于已有场景中的物体，可以实现挪用到当前场景下进行渲染（仍在持续优化，展示只为修改记录时实现的效果）
+<img width="1074" height="611" alt="image" src="https://github.com/user-attachments/assets/165a6f82-0440-4e83-94bf-514575c54b7b" />
+
+
 ## 后续探索方向
 
 后续会在当前展示链路基础上继续补强以下方向：
