@@ -17,6 +17,12 @@
 - 6V 视频级天气编辑，包括雪天、雨天和夜晚风格迁移；
 - 基于点云 / 3DGS guidance 的 world model 数据组织、推理和微调实验。
 
+## 项目成果
+[荣获 2026 界汽车数据创新应用大赛 技术创新奖](https://sjds.caam.org.cn/newsinfo/11266624.html)
+
+<img width="1216" height="817" alt="img_v3_02142_b30a7999-3a9e-4197-b607-89b7dc36304g" src="https://github.com/user-attachments/assets/c14f4045-0532-460c-ab47-dd2280a84c87" />
+
+
 ## 当前能力展示
 
 当前展示结果由多个子方向组成，重点验证编辑后的视觉结果、空间关系和点云结果是否能够互相对应。
