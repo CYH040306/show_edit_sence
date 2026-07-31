@@ -146,8 +146,10 @@
 
 
 ### 6. 不同场景物体复用
-基于已有场景中的物体，可以实现挪用到当前场景下进行渲染（仍在持续优化，展示只为修改记录时实现的效果）
-<img width="1074" height="611" alt="image" src="https://github.com/user-attachments/assets/165a6f82-0440-4e83-94bf-514575c54b7b" />
+基于已有场景中的物体，可以实现挪用到当前场景下进行渲染
+| 场景1 | 场景2 | 场景2物体挪用到场景1 |
+| :---: | :---: | :---: |
+| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> | <img width="644" height="420" alt="image" src="https://github.com/user-attachments/assets/2524ec52-939d-4db5-a8a8-b60c0376853a" /> | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
 
 
 ## 后续探索方向
