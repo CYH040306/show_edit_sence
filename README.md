@@ -133,7 +133,14 @@
 | <img width="600" height="338" alt="0" src="https://github.com/user-attachments/assets/5ae096f9-0f5b-4d7d-acba-eff091407955" /> | <img width="600" height="338" alt="3" src="https://github.com/user-attachments/assets/9e77f8a2-61dc-4563-9c49-9fa844ea9d46" /> | <img width="600" height="338" alt="5" src="https://github.com/user-attachments/assets/9af40cc9-4bb5-457a-9961-00ed6b18e668" /> |
 
 
-### 5. 6V 一致性天气编辑
+### 5. 自车不规则运动
+以下二者展示结果，均为重建结果
+| 原始轨迹 | 修改自车运动轨迹 |
+| :---: | :---: |
+| https://github.com/user-attachments/assets/3fcd162c-d9f8-4a53-9bc0-627c1efffe08 | https://github.com/user-attachments/assets/6c1cb723-e813-4af5-9f0a-fcb11ab39f12 |
+
+
+### 6. 6V 一致性天气编辑
 基于重建后的 6V 视频结果进行天气和光照编辑，展示同一多相机片段在雪天、雨天和夜晚条件下的连续生成效果，关注跨视角风格一致性和时序稳定性。
 
 #### 1. 重建6V视角视频
@@ -149,7 +156,7 @@
 <img width="700" height="264" alt="0100_6v_night gen" src="https://github.com/user-attachments/assets/adbea2fd-0ee3-4dd0-afe5-1e04bd3b72a7" />
 
 
-### 6. 不同场景物体复用
+### 7. 不同场景物体复用
 基于已有场景中的物体，可以实现挪用到当前场景下进行渲染
 | 场景1 | 场景2 | 场景2物体挪用到场景1 |
 | :---: | :---: | :---: |
