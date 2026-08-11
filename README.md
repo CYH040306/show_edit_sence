@@ -137,7 +137,8 @@
 以下二者展示结果，均为重建结果
 | 原始轨迹 | 修改自车运动轨迹 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d799d9f9-1bbf-48d4-8210-2d7277fa30f1" width="450"> | <img src="https://github.com/user-attachments/assets/9673f7da-121e-46d5-82c6-bee191b45614" width="450"> |
+| <img width="600" height="338" alt="0" src="https://github.com/user-attachments/assets/472bedd6-0f03-408c-b744-ffbfd6363eb1" /> | <img width="600" height="338" alt="new" src="https://github.com/user-attachments/assets/3972b53f-71f0-448a-ab46-bff0bd2733e8" /> |
+
 
 
 ### 6. 6V 一致性天气编辑
