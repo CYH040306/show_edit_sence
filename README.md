@@ -161,14 +161,14 @@
 基于已有场景中的物体，可以实现挪用到当前场景下进行渲染
 | 场景1 | 场景2 | 场景2物体挪用到场景1 |
 | :---: | :---: | :---: |
-| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/7bc3ecf9-02ca-4e00-8df6-c68be8b07dc6" /> | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
+| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> |  | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
 
 
 ### 8. cosmos 2.5上实现数据闭环
 基于生成数据，实现对cosmos 2.5 2B版本模型的 LoRA 微调
 | 原始视频 | 雨天 | 夜晚 |
 | :---: | :---: | :---: |
-| <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="644" height="420" alt="image" src="https://github.com/user-attachments/assets/2524ec52-939d-4db5-a8a8-b60c0376853a" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/6b4d0adc-e4f8-4c54-b3cc-90b19b325427" /> |
+| <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/7bc3ecf9-02ca-4e00-8df6-c68be8b07dc6" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/6b4d0adc-e4f8-4c54-b3cc-90b19b325427" /> |
 
 
 | 原始视频 | 白天 |
