@@ -161,7 +161,7 @@
 基于已有场景中的物体，可以实现挪用到当前场景下进行渲染
 | 场景1 | 场景2 | 场景2物体挪用到场景1 |
 | :---: | :---: | :---: |
-| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> |  | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
+| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> | <img width="750" height="420" alt="image" src="https://github.com/user-attachments/assets/f9776452-a6df-4c3f-aa40-8a2de4aaf4a3" /> | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
 
 
 ### 8. cosmos 2.5上实现数据闭环
