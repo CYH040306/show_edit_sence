@@ -15,7 +15,7 @@
 - 极端交通场景合成与点云级结果检查；
 - 行人、电动车等非车辆目标的多视角重建；
 - 6V 视频级天气编辑，包括雪天、雨天和夜晚风格迁移；
-- 基于点云 / 3DGS guidance 的 world model 数据组织、推理和微调实验。
+- 基于点云 / 3DGS guidance 的 cosmos 2.5 Transfer 数据组织、推理和微调实验。
 
 ## 项目成果
 [荣获 2026 界汽车数据创新应用大赛 技术创新奖](https://sjds.caam.org.cn/newsinfo/11266624.html)
@@ -161,8 +161,19 @@
 基于已有场景中的物体，可以实现挪用到当前场景下进行渲染
 | 场景1 | 场景2 | 场景2物体挪用到场景1 |
 | :---: | :---: | :---: |
-| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> | <img width="644" height="420" alt="image" src="https://github.com/user-attachments/assets/2524ec52-939d-4db5-a8a8-b60c0376853a" /> | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
+| <img width="748" height="484" alt="image" src="https://github.com/user-attachments/assets/b3d3e32a-70a2-4ac3-b885-c37d7de4b189" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/7bc3ecf9-02ca-4e00-8df6-c68be8b07dc6" /> | <img width="756" height="422" alt="image" src="https://github.com/user-attachments/assets/ecbabcc6-8658-48b2-b5f6-6de62dc2eb4b" /> |
 
+
+### 8. cosmos 2.5上实现数据闭环
+基于生成数据，实现对cosmos 2.5 2B版本模型的 LoRA 微调
+| 原始视频 | 雨天 | 夜晚 |
+| :---: | :---: | :---: |
+| <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="644" height="420" alt="image" src="https://github.com/user-attachments/assets/2524ec52-939d-4db5-a8a8-b60c0376853a" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/6b4d0adc-e4f8-4c54-b3cc-90b19b325427" /> |
+
+
+| 原始视频 | 白天 |
+| :---: | :---: |
+| <img width="600" height="330" alt="23_4_6706sc_processed" src="https://github.com/user-attachments/assets/3cf6b531-f0e2-4170-9239-6d4bd0a2b7a1" /> | <img width="600" height="330" alt="cyh_multibranch_lora_day_processed" src="https://github.com/user-attachments/assets/5cfb3faf-5576-4709-ad79-6894212d74db" /> |
 
 ## 后续探索方向
 
