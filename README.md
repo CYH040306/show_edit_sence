@@ -174,7 +174,7 @@
 
 | 原始视频 | 白天 |
 | :---: | :---: |
-| <img width="600" height="330" alt="23_4_6706sc_processed" src="https://github.com/user-attachments/assets/3cf6b531-f0e2-4170-9239-6d4bd0a2b7a1" /> | <img width="500" height="275" alt="cyh_multibranch_lora_day" src="https://github.com/user-attachments/assets/677dbd87-2e68-4133-ae10-71eb030c1fa7" /> |
+| <img width="500" height="275" alt="23_4_6706sc_processed" src="https://github.com/user-attachments/assets/3cf6b531-f0e2-4170-9239-6d4bd0a2b7a1" /> | <img width="500" height="275" alt="cyh_multibranch_lora_day" src="https://github.com/user-attachments/assets/677dbd87-2e68-4133-ae10-71eb030c1fa7" /> |
 
 ## 后续探索方向
 
