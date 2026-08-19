@@ -168,7 +168,7 @@
 基于生成数据，实现对cosmos 2.5 2B版本模型的 LoRA 微调
 | 原始视频 | 雨天 | 夜晚 | 黄昏 |
 | :---: | :---: | :---: | :---: |
-| <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/7bc3ecf9-02ca-4e00-8df6-c68be8b07dc6" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/40c39c76-ba57-4087-ad54-e5c03fffe914" /> | <img width="500" height="275" alt="cyh_multibranch_lora_dusk" src="https://github.com/user-attachments/assets/2fe9a1dc-02c6-489a-9002-137319b525b5" /> |
+| <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/21c6b460-4d73-48f6-863a-e57716206d29" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/40c39c76-ba57-4087-ad54-e5c03fffe914" /> | <img width="500" height="275" alt="cyh_multibranch_lora_dusk" src="https://github.com/user-attachments/assets/2fe9a1dc-02c6-489a-9002-137319b525b5" /> |
 
 
 
