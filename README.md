@@ -173,15 +173,16 @@
 | <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/21c6b460-4d73-48f6-863a-e57716206d29" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/40c39c76-ba57-4087-ad54-e5c03fffe914" /> | <img width="500" height="275" alt="cyh_multibranch_lora_dusk" src="https://github.com/user-attachments/assets/2fe9a1dc-02c6-489a-9002-137319b525b5" /> |
 
 
+| 原始视频 | 夜晚 | 晴天 |
+| :---: | :---: | :---: |
+| <img width="500" height="275" alt="24_gaojia_4847sc" src="https://github.com/user-attachments/assets/235d7a55-8bc7-45c5-a363-d2c0c5afc0c3" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/6e54a6cd-ac04-4510-a94c-774ef53826ae" /> | <img width="500" height="275" alt="cyh_multibranch_lora_day" src="https://github.com/user-attachments/assets/457ab815-bba9-4345-aac3-0d1ad25295ef" /> |
+
+
 #### 8.2. 合成数据变换
 | 原始视频 | 雨天 | 夜晚 | 黄昏 |
 | :---: | :---: | :---: | :---: |
 | <img width="500" height="281" alt="cam_0_camera0" src="https://github.com/user-attachments/assets/b3f4bdd2-0a5e-4bbc-9a61-92bb78d8a93d" /> | <img width="500" height="281" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/01a828cf-195d-445b-8806-3752b79ead3b" /> | <img width="500" height="281" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/691cff5f-970e-4309-87bf-9697fa9b2969" /> | <img width="500" height="281" alt="cyh_multibranch_lora_dusk" src="https://github.com/user-attachments/assets/e39e790e-fd05-4723-8e89-d9e9d272bd18" /> |
 
-
-| 原始视频 | 白天 |
-| :---: | :---: |
-| <img width="500" height="275" alt="23_4_6706sc_processed" src="https://github.com/user-attachments/assets/3cf6b531-f0e2-4170-9239-6d4bd0a2b7a1" /> | <img width="500" height="275" alt="cyh_multibranch_lora_day" src="https://github.com/user-attachments/assets/677dbd87-2e68-4133-ae10-71eb030c1fa7" /> |
 
 ## 后续探索方向
 
