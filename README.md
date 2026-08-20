@@ -173,9 +173,10 @@
 | <img width="500" height="275" alt="27_1_9094sc_processed" src="https://github.com/user-attachments/assets/78120012-9576-4414-a4df-ae9990445a31" /> | <img width="500" height="275" alt="cyh_multibranch_lora_rainy" src="https://github.com/user-attachments/assets/21c6b460-4d73-48f6-863a-e57716206d29" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/40c39c76-ba57-4087-ad54-e5c03fffe914" /> | <img width="500" height="275" alt="cyh_multibranch_lora_dusk" src="https://github.com/user-attachments/assets/2fe9a1dc-02c6-489a-9002-137319b525b5" /> |
 
 
-| 原始视频 | 夜晚 | 晴天 |
-| :---: | :---: | :---: |
-| <img width="500" height="275" alt="24_gaojia_4847sc" src="https://github.com/user-attachments/assets/235d7a55-8bc7-45c5-a363-d2c0c5afc0c3" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/6e54a6cd-ac04-4510-a94c-774ef53826ae" /> | <img width="500" height="275" alt="cyh_multibranch_lora_day" src="https://github.com/user-attachments/assets/457ab815-bba9-4345-aac3-0d1ad25295ef" /> |
+| 原始视频 | 夜晚 | 晴天 | 黄昏 |
+| :---: | :---: | :---: | :---: |
+| <img width="500" height="275" alt="24_gaojia_4847sc" src="https://github.com/user-attachments/assets/235d7a55-8bc7-45c5-a363-d2c0c5afc0c3" /> | <img width="500" height="275" alt="cyh_multibranch_lora_night" src="https://github.com/user-attachments/assets/6e54a6cd-ac04-4510-a94c-774ef53826ae" /> | <img width="500" height="275" alt="cyh_multibranch_lora_day" src="https://github.com/user-attachments/assets/457ab815-bba9-4345-aac3-0d1ad25295ef" /> | <img width="500" height="275" alt="cyh_multibranch_lora_dusk" src="https://github.com/user-attachments/assets/03e2c94a-db5a-4821-bf8a-bd9c30a74307" /> |
+
 
 
 #### 8.2. 合成数据变换
